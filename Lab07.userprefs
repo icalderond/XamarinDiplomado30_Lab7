@@ -1,0 +1,22 @@
+﻿<Properties StartupConfiguration="{A77B1F01-D213-4964-ADBA-A3DA35A84C56}|Default">
+  <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="Lab07/MainActivity.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="../../Documents/Development/Repositorios/wms-richer-android/WMSRicher-Android/Fragments/Herramientas/EstatusMensaje.cs" line="18" offsetX="402" offsetY="357" expression="estatus" liveUpdate="False" />
+    <Watch file="../../Documents/Development/Repositorios/wms-richer-android/WMSRicher-Android/Fragments/Herramientas/EstatusMensaje.cs" line="22" offsetX="413" offsetY="441" expression="value" liveUpdate="False" />
+    <Watch file="../../Documents/Development/Repositorios/wms-richer-android/WMSRicher-Android/Service/ServiceDescarga.cs" line="77" offsetX="878" offsetY="1596" expression="_entrada" liveUpdate="False" />
+    <Watch file="../../Documents/Development/Repositorios/wms-richer-android/WMSRicher-Android/Service/ServiceDescarga.cs" line="77" offsetX="878" offsetY="1622" expression="_tarima" liveUpdate="False" />
+    <Watch file="../../Documents/Development/Repositorios/wms-richer-android/WMSRicher-Android/Service/ServiceDescarga.cs" line="77" offsetX="880" offsetY="1649" expression="agruparBultos" liveUpdate="False" />
+    <Watch file="../../Documents/Development/Repositorios/wms-richer-android/WMSRicher-Android/Service/ServiceDescarga.cs" line="106" offsetX="625" offsetY="2205" expression="_bulto.IdUnidad" liveUpdate="False" />
+    <Watch file="../../Documents/Development/Repositorios/wms-richer-android/WMSRicher-Android/Service/ServiceDescarga.cs" line="97" offsetX="889" offsetY="2016" expression="_tarima" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Lab07 PreferredExecutionTarget="7f722758-a031-4db1-8dc3-ed1b2a580169" />
+</Properties>
